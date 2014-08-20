@@ -12,11 +12,13 @@ public class Contact {
     private String cellNumber;
     private String homeAddress;
 
+    public Contact(){};
+
     public Contact(Builder builder) {
         this.id = builder.id;
         this.fName = builder.fName;
         this.lName = builder.lName;
-        this.emailAddress = builder.homeAddress;
+        this.emailAddress = builder.emailAddress;
         this.cellNumber = builder.cellNumber;
         this.homeAddress = builder.homeAddress;
     }

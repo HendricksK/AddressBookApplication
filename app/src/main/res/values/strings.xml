@@ -2,7 +2,16 @@
 <resources>
 
     <string name="app_name">AddressBookApplication</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="contact_new">Please enter contact details below, * are compulsory fields</string>
     <string name="action_settings">Settings</string>
-    <string name="press_me">Press Me!</string>
+    <string name="press_me">Add Contact</string>
+    <string name="more_detail">Full detail</string>
+    <string name="new_contact">Back</string>
+    <string name="a7x">AVENGED SEVENFOLD</string>
+    <string name="phne">Phone Number</string>
+    <string name="lname">Last Name</string>
+    <string name="fname">First Name</string>
+    <string name="email">Email Address</string>
+    <string name="Address">Home Address</string>
+    <string name="contact_details">Contact Details</string>
 </resources>
